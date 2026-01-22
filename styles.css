@@ -32,7 +32,7 @@ button:hover{
   
 }
 .links{
-   text-decoration: none;
+  text-decoration: none;
   padding: 10px;
   margin-bottom: -6px;
   color: black;
@@ -104,11 +104,11 @@ hr{
 
 img:not(#portrait):hover{
   filter: grayscale(0%);
-  transform: scale(105%);
+  transform: scale(108%);
 }
 
 img:not(#portrait){
-  filter:grayscale(70%);
+  filter:grayscale(0%);
 }
 
 .gallery:not(#portrait){
