@@ -171,7 +171,6 @@ img:not(#portrait){
   float: left;
   max-width: 40%;
   margin-right: 20px;
-  border: solid black 5px;
 }
 
 #about-text{
