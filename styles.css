@@ -79,7 +79,7 @@ color: transparent;
   text-align: center;
   text-transform: uppercase;
   font-size: 40px;
-  background: linear-gradient(80deg, pink, purple);
+  background: linear-gradient(80deg, lightblue, darkblue);
 -webkit-background-clip: text;
 color: transparent;
 }
