@@ -11,6 +11,11 @@ button:hover{
   transform: scale(0.9);
 }
 
+.favicon{
+  fill: white;
+}
+  
+
 #header{
   z-index: 2;
   position: fixed;
