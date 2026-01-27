@@ -2,6 +2,7 @@ body{
   font-family: sans-serif;
   background-color: white;
   margin: 0;
+  color: #303447;
 }
 
 #button-link{
@@ -21,34 +22,34 @@ button:hover{
 #header{
   z-index: 2;
   position: fixed;
-  top: -6px;
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Damaged_Ripped_Wrinkled_Cardboard_Paper_Texture_Free_High_Resolution_Creative_Commons_%288077166499%29.jpg/1280px-Damaged_Ripped_Wrinkled_Cardboard_Paper_Texture_Free_High_Resolution_Creative_Commons_%288077166499%29.jpg?20150528133549");
+  top: -1px;
+  background-image: url("https://i.pinimg.com/736x/96/b6/85/96b685fbb1071772c402d7cb0a1e6998.jpg");
   width: 100vw;
   height: 30px;
   padding: 5px 4px 11px 8px;
   text-align: center;
   display: flex;
   justify-content: space-around;
-  border-top: 6px solid white;
-  
 }
 
 .links:visited{
   color: white;
   text-decoration: none;
-  
+  background-color: #ffce47;
 }
 .links{
   text-decoration: none;
   padding: 10px;
   margin-bottom: -6px;
   color: black;
+  text-transform: uppercase;
 }
 
 .links:hover{
-  color: black;
-  background-color: #F7EC88;
+  color: white;
+  background-color: rgba(180, 10, 70, 0.5);
   text-decoration: none;
+  text-transform: uppercase;
 }
 
 #h2-1{
@@ -115,11 +116,9 @@ color: transparent;
 
 
 hr{
-  border: 0;
-  height: 0px;
-   border: solid black 6px;
-  background-color: transparent;
-  width: 200px;
+  height: 3px;
+  background-color: #303447;
+  width: 20vw;
   margin-top: 20px;
 }
 
