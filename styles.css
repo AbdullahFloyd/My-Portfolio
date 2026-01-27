@@ -22,7 +22,7 @@ button:hover{
   position: fixed;
   top: -6px;
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Damaged_Ripped_Wrinkled_Cardboard_Paper_Texture_Free_High_Resolution_Creative_Commons_%288077166499%29.jpg/1280px-Damaged_Ripped_Wrinkled_Cardboard_Paper_Texture_Free_High_Resolution_Creative_Commons_%288077166499%29.jpg?20150528133549");
-  width: 100%;
+  width: 100vw;
   height: 30px;
   padding: 5px 4px 11px 8px;
   text-align: center;
@@ -33,7 +33,7 @@ button:hover{
 }
 
 .links:visited{
-  color: black;
+  color: white;
   text-decoration: none;
   
 }
