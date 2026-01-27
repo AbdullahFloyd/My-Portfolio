@@ -5,6 +5,16 @@ body{
   color: #303447;
 }
 
+  .sideways{
+  color: #303447;
+  transform: rotate(90deg);
+  margin-left: -70px;
+  margin-top: 155px;
+  position: fixed;
+  z-index: -1;
+  font-size: 25px;
+}
+
 #button-link{
   color: white;
   
