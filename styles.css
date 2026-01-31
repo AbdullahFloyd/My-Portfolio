@@ -156,7 +156,7 @@ hr{
 
 @media (max-width: 376px){
   .gallery img:not(#portrait){
-  width: 100%;
+  width: 120%;
   max-width: 120px;
   height: 120px;
   padding: 10px;
