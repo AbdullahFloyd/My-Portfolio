@@ -134,6 +134,7 @@ hr{
   background-color: #303447;
   width: 20vw;
   margin-top: 20px;
+  border: none;
 }
 
 .small-hr{
