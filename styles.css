@@ -6,10 +6,10 @@ body{
 }
 
   .sideways{
-  color: red;
+  color: black;
   transform: rotate(90deg);
   margin-left: -70px;
-  margin-top: 155px;
+  margin-top: 145px;
   position: fixed;
   z-index: -1;
   font-size: 25px;
@@ -67,9 +67,10 @@ button:hover{
   text-align: center;
   text-transform: uppercase;
   font-size: 40px;
-  background: linear-gradient(80deg, yellow, darkgreen);
+    /*background: linear-gradient(80deg, yellow, darkgreen);
 -webkit-background-clip: text;
-color: transparent;
+color: transparent;*/
+  color: black
 }
 
 #h2-2{
@@ -77,9 +78,10 @@ color: transparent;
   text-align: center;
   text-transform: uppercase;
   font-size: 40px;
-  background: linear-gradient(80deg, yellow, darkgreen);
+   /*background: linear-gradient(80deg, yellow, darkgreen);
 -webkit-background-clip: text;
-color: transparent;
+color: transparent;*/
+  color: black
 }
 
 #h2-3{
@@ -87,9 +89,10 @@ color: transparent;
   text-align: center;
   text-transform: uppercase;
   font-size: 40px;
- background: linear-gradient(80deg, yellow, darkgreen);
+   /*background: linear-gradient(80deg, yellow, darkgreen);
 -webkit-background-clip: text;
-color: transparent;
+color: transparent;*/
+  color: black
 }
 
 #h2-4{
@@ -97,9 +100,10 @@ color: transparent;
   text-align: center;
   text-transform: uppercase;
   font-size: 40px;
-  background: linear-gradient(80deg, yellow, darkgreen);
+  /*background: linear-gradient(80deg, yellow, darkgreen);
 -webkit-background-clip: text;
-color: transparent;
+color: transparent;*/
+  color: black
 }
 
 #paragraph{
@@ -133,10 +137,9 @@ hr{
 }
 
 .small-hr{
-  width: 60px;
-  border: dashed blue 6px;
-  background-color: transparent;
-  
+  width: 90px;
+  border: solid blue;
+  background-color: blue;
 }
 
 
