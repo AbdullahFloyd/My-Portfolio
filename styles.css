@@ -153,6 +153,17 @@ hr{
   padding-top: 40px;
 }
 
+
+@media (max-width: 376px){
+  .gallery img:not(#portrait){
+  width: 100%;
+  max-width: 100px;
+  height: 100px;
+  padding: 10px;
+  object-fit: cover;
+  padding-top: 40px;
+  }
+
 img:not(#portrait):hover{
   filter: grayscale(0%);
   transform: scale(108%);
