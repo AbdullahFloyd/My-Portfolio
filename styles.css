@@ -218,9 +218,8 @@ footer{
   font-size: 12px;
   font-family: monospace;
   text-align: center;
-  color: blue;
- margin-bottom: 0px;
-  padding-top: 40px;
+  position: static;
+  bottom: 2px;
 }
 
 
