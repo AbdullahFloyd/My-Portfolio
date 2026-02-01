@@ -5,6 +5,12 @@ body{
   color: #303447;
 }
 
+.site-wrapper{
+  display: flex; /* Activate Flexbox */
+  flex-direction: column; /* Stack children vertically */
+  min-height: 100vh; 
+}
+
   .sideways{
   color: black;
   transform: rotate(90deg);
