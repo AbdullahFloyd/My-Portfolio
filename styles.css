@@ -210,6 +210,8 @@ img:not(#portrait):hover{
 #about-text{
  padding: 10px;
  text-align: left;
+ margin: auto;
+ width: 80vw;
 }
 
 footer{
