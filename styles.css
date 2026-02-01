@@ -97,13 +97,11 @@ color: transparent;*/
    /*background: linear-gradient(80deg, yellow, darkgreen);
 -webkit-background-clip: text;
 color: transparent;*/
-
     font-family: sans-serif;
     font-weight: 300;
     text-transform: uppercase;
-    letter-spacing: 0.15em;
-    color: #003366; 
-}
+    letter-spacing: 0.16em;
+    color: black; 
 }
 
 #h2-4{
@@ -183,10 +181,6 @@ img:not(#portrait):hover{
   transform: scale(108%);
 }
 
-#h2{
-  text-align: center;
-  padding: 10px;
-}
 
 .gallery:not(#portrait){
   display: flex;
