@@ -87,12 +87,17 @@ color: transparent;*/
 #h2-3{
   padding-top: 30px;
   text-align: center;
-  text-transform: uppercase;
   font-size: 40px;
    /*background: linear-gradient(80deg, yellow, darkgreen);
 -webkit-background-clip: text;
 color: transparent;*/
-  color: black
+
+    font-family: 'Montserrat';
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: #003366; 
+}
 }
 
 #h2-4{
