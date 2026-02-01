@@ -172,7 +172,10 @@ img:not(#portrait):hover{
   transform: scale(108%);
 }
 
-
+#h2{
+  text-align: center;
+  padding: 10px;
+}
 
 .gallery:not(#portrait){
   display: flex;
@@ -206,6 +209,7 @@ img:not(#portrait):hover{
 
 #about-text{
  padding: 10px;
+ text-align: left;
 }
 
 footer{
