@@ -214,12 +214,8 @@ footer{
   margin-bottom: 20px;
 }
 
-
-button{
-  display: flex;
-  border: none;
-  margin: auto;
-  background-color: blue;
-  padding: 20px;
-  color: white;
+#about-link{
+   text-decoration: none;
+   color: black;
+   font-family: monospace;
 }
