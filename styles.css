@@ -86,7 +86,7 @@ color: transparent;*/
   #h2-1{
   padding-top: 30px;
   text-align: center;
-  font-size: 35px;
+  font-size: 29px;
    /*background: linear-gradient(80deg, yellow, darkgreen);
 -webkit-background-clip: text;
 color: transparent;*/
@@ -95,6 +95,7 @@ color: transparent;*/
     text-transform: uppercase;
     letter-spacing: 0.16em;
     color: black; 
+    margin: auto;
 }
 
 }
