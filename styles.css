@@ -203,7 +203,7 @@ hr{
 }
   }
 
-img:not(#portrait):hover{
+img:not(#iconic):hover{
   transform: scale(108%);
 }
 
