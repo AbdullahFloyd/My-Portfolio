@@ -14,6 +14,12 @@ body{
   top: 10px;
 }
 
+@media (max-width: 376px){
+  #iconic{
+   display: none;
+}
+}
+
 .site-wrapper{
   display: flex; /* Activate Flexbox */
   flex-direction: column; /* Stack children vertically */
