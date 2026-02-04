@@ -5,6 +5,15 @@ body{
   color: #303447;
 }
 
+
+#iconic{
+   position: sticky;
+   width: 5vw;
+   z-index: 5;
+  left: 3px;
+  top: 3px;
+}
+
 .site-wrapper{
   display: flex; /* Activate Flexbox */
   flex-direction: column; /* Stack children vertically */
