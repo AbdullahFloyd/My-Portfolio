@@ -176,6 +176,11 @@ hr{
 }
 
 
+#gallery-container{
+  width: 90vw;
+}
+
+
 @media (max-width: 376px){
   .gallery img:not(#portrait){
   width: 100%;
