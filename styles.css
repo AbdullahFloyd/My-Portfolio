@@ -165,11 +165,9 @@ color: transparent;*/
 
 
 hr{
-  height: 3px;
-  background-color: #303447;
-  width: 20vw;
+ width: 20vw;
   margin-top: 20px;
-  border: none;
+  border: dashed black 5px;
 }
 
 .small-hr{
