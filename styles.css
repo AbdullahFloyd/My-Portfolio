@@ -101,7 +101,8 @@ color: transparent;*/
 
 @media screen only and(max-width: 376px){
  #h2-1{
-  padding-top: 80px;
+  padding-top: 20vh;
+  font-size: 30px;
 }
 }
 
