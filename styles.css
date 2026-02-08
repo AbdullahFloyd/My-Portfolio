@@ -36,11 +36,7 @@ body{
   font-size: 25px;
 }
 
-@media (max-width: 376px){
-  .sideways{
-   display: none;
-}
-}
+
 
 #button-link{
   color: white;
@@ -105,40 +101,9 @@ color: transparent;*/
 
 @media screen only and(max-width: 376px){
  #h2-1{
-  /*margin-top:20px;*/
   padding-top: 80px;
-  text-align: center;
-  font-size: 30px;
-   /*background: linear-gradient(80deg, yellow, darkgreen);
--webkit-background-clip: text;
-color: transparent;*/
-    font-family: Roboto;
-    font-weight: 300;
-    text-transform: uppercase;
-    letter-spacing: 0.16em;
-    color: black; 
 }
 }
-
-@media (max-width: 376px){
-  #h2-1{
-  padding-top: 40px;
-  text-align: center;
-  font-size: 29px;
-   /*background: linear-gradient(80deg, yellow, darkgreen);
--webkit-background-clip: text;
-color: transparent;*/
-    font-family: Roboto;
-    font-weight: 300;
-    text-transform: uppercase;
-    letter-spacing: 0.16em;
-    color: black; 
-    margin: auto;
-}
-
-}
-
-
 
 
 #paragraph{
