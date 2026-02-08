@@ -103,7 +103,7 @@ color: transparent;*/
     color: black; 
 }
 
-@media (max-width: 376px){
+@media screen only and(max-width: 376px){
  #h2-1{
   /*margin-top:20px;*/
   padding-top: 80px;
