@@ -5,6 +5,12 @@ body{
   color: #303447;
 }
 
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    scroll-behavior: smooth;
+  }
+}
+
 
 #iconic{
    position: sticky;
