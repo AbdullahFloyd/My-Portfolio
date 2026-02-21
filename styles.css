@@ -167,7 +167,7 @@ a .gallery img:not(#portrait){
 }
 
 
-@media (max-width: 376px){
+a @media (max-width: 376px){
   .gallery img:not(#portrait){
   width: 100%;
   max-width: 130px;
@@ -184,7 +184,7 @@ a img:not(#iconic):hover{
 }
 
 
-.gallery:not(#portrait){
+a .gallery:not(#portrait){
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
