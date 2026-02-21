@@ -150,7 +150,7 @@ hr{
 
 
 
-.gallery img:not(#portrait){
+a .gallery img:not(#portrait){
  width: 90%;
   max-width: 250px;
   height: 240px;
@@ -179,7 +179,7 @@ hr{
 }
   }
 
-img:not(#iconic):hover{
+a img:not(#iconic):hover{
   transform: scale(108%);
 }
 
