@@ -236,6 +236,20 @@ footer{
 @media (max-width: 376px){
   .gallery a img:not(#portrait){
   width: 100%;
+  max-width: 140px;
+  height: 140px;
+  padding: 5px;
+  object-fit: cover;
+  padding-top: 40px;
+  margin-left: 10px;
+}
+  }
+
+
+/*
+@media (max-width: 376px){
+  .gallery a img:not(#portrait){
+  width: 100%;
   max-width: 130px;
   height: 130px;
   padding: 9px;
@@ -244,5 +258,7 @@ footer{
   margin-left: 10px;
 }
   }
+
+*/
 
 
