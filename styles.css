@@ -150,7 +150,7 @@ hr{
 
 
 
-a .gallery img:not(#portrait){
+.gallery img:not(#portrait){
  width: 90%;
   max-width: 250px;
   height: 240px;
@@ -167,7 +167,7 @@ a .gallery img:not(#portrait){
 }
 
 
-a @media (max-width: 376px){
+@media (max-width: 376px){
   .gallery img:not(#portrait){
   width: 100%;
   max-width: 130px;
@@ -179,12 +179,12 @@ a @media (max-width: 376px){
 }
   }
 
-a img:not(#iconic):hover{
+img:not(#iconic):hover{
   transform: scale(108%);
 }
 
 
-a .gallery:not(#portrait){
+.gallery:not(#portrait){
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
