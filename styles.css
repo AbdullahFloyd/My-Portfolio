@@ -12,15 +12,10 @@ body{
         background-color: #171400;
         color: #ffffff;
     }
-}
-
-@media (prefers-color-scheme: dark) {
     #h2-1 {
-        color: white;
+        color: #ffffff;
     }
 }
-
-
 
 
 #iconic{
