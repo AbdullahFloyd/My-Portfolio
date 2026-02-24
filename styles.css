@@ -226,6 +226,19 @@ footer{
 
 
 @media (max-width: 376px){
+  #video{
+  display: flex;
+  margin: auto;
+  width: auto;
+  aspect-ratio: 16 / 9;
+  margin-top: 40px;
+  border: solid black 2px;
+  padding: 3px;
+  max-width: 90vw;
+}
+}
+
+@media (max-width: 376px){
  #h2-1{
   padding-top: 8vh;
   font-size: 30px;
