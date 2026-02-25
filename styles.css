@@ -12,9 +12,19 @@ body{
         background-color: black;
         color: white;
     }
-    #h2-1 {
-        color: white;
-    }
+}
+
+@media (prefers-color-scheme: dark) {
+   #h2-1{
+  padding-top: 30px;
+  text-align: center;
+  font-size: 40px;
+    font-family: Roboto;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: white; 
+}
 }
 
 
