@@ -7,6 +7,12 @@ body{
 }
 
 
+
+#color-banner {
+  background-image: url('images/banner.svg');
+  background-size: cover; /* Optional, but recommended for control */
+}
+
 #iconic{
    position: sticky;
    width: 10vw;
