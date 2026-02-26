@@ -11,6 +11,9 @@ body{
 #color-banner {
   background-image: url('images/banner.svg');
   background-size: cover; /* Optional, but recommended for control */
+  position: sticky;
+  top: 300px;
+  justify-content: space-around;
 }
 
 #iconic{
