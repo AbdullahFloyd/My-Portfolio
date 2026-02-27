@@ -1,8 +1,8 @@
 body{
   font-family: sans-serif;
-  background-color: white;
+  background-color: #e5e5e5ff;
   margin: 0;
-  color: #303447;
+  color: #0c0a06ff;
   transition: background-color 0.3s, color 0.3s; /* Smooth transition */
 }
 
