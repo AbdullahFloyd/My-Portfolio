@@ -176,8 +176,6 @@ a img:not(#iconic):hover {
   width: 70%;
   aspect-ratio: 16 / 9;
   margin-top: 40px;
-  border: solid black 5px;
-  padding: 3px;
   max-width: 80vw;
 }
 
