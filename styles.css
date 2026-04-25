@@ -160,6 +160,7 @@ hr {
 
 a img:not(#iconic):hover {
   transform: scale(107%);
+  border-radius: 10px;
 }
 
 
@@ -174,7 +175,7 @@ a img:not(#iconic):hover {
 #video{
   display: flex;
   margin: auto;
-  width: 70%;
+  width: 63%;
   aspect-ratio: 16 / 9;
   margin-top: 40px;
   max-width: 80vw;
