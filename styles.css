@@ -11,6 +11,11 @@ body{
     text-align: center;
 }
 
+
+#PAYHIPLINK{
+  color: #800080;
+}
+
 #color-banner {
   background-image: url('images/banner.svg');
   background-size: cover; /* Optional, but recommended for control */
