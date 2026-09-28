@@ -68,14 +68,11 @@ button:hover{
   justify-content: space-around;
 }
 
-.links:active{
-    background-color: orange;
-}
 
 .links:visited{
   color: black;
   text-decoration: none;
-  background-color: #ffce47;
+  background-color: orange;
 }
 .links{
   text-decoration: none;
