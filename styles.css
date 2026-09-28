@@ -93,6 +93,7 @@ button:hover{
   margin-bottom: -6px;
   color: black;
   text-transform: uppercase;
+  transition: background-color 0.4s, color 0.2s;
 }
 
 .links:hover{
@@ -240,7 +241,6 @@ footer {
   min-height: 40px;
   padding: 10px;
   margin-bottom: 0px;
-  background-color: lightgray;
 }
 
 .footerLink {
