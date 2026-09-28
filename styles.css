@@ -221,6 +221,42 @@ footer{
 }
 
 
+footer{
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  font-family: monospace;
+  font-size: 13px;
+  color: #1a1a1a;
+  min-height: 40px;
+  padding: 10px;
+  margin-bottom: 0px;
+  background-color: lightgray;
+}
+
+.footerLink {
+  color: #1a1a1a;
+  text-decoration: none;
+  padding:10px;
+  transition: background-color 0.3s, color 0.2s;
+}
+
+.footerLink:hover {
+  color: #ffffff;
+  background-color: #1a1a1a;
+}
+
+.footerLink:active {
+  color: #1a1a1a;
+  background-color: orange;
+}
+
+
 
 /*MOBILE STYLING-----------------------------------------------*/
 
@@ -240,6 +276,20 @@ footer{
 }
 }
 
+@media (max-width: 376px){
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center; t
+  gap: 10px;  
+  font-family: monospace;r 
+  font-size: 10px;
+  color: #1a1a1a;
+  min-height: 40px;
+  padding: 10px;
+  margin-bottom: 0px;
+}
+}
 
 @media (max-width: 376px){
   #video{
