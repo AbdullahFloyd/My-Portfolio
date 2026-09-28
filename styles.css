@@ -250,8 +250,11 @@ footer {
   background-color: orange;
 }
 
-
-
+.footerText{
+  font-size: 13px;
+  text-align: center;
+  font-family: Courier New;
+}
 /*MOBILE STYLING-----------------------------------------------*/
 
 
