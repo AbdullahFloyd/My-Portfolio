@@ -16,16 +16,6 @@ body{
   color: #800080;
 }
 
-#color-banner {
-  background-image: url('images/banner.svg');
-  background-size: cover; /* Optional, but recommended for control */
-  position: fixed;
-  top: 200px;
-  
-  justify-content: space-around;
-  z-index:-20;
-}
-
 #iconic{
    position: sticky;
    width: 10vw;
