@@ -140,9 +140,9 @@ button:hover{
 
 
 hr {
- width: 20vw;
+ width: 30vw;
   margin-top: 20px;
-  border: dashed black 3px;
+  border: solid black 3px;
 }
 
 .small-hr {
