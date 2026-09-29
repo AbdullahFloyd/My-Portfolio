@@ -153,14 +153,12 @@ hr {
   margin-bottom: 30px;
 }
 
-
-
 .gallery a img {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 2fr));
   max-width: 200px;
   padding: 4px;
-  height: auto;
+  height: 30vh;
   object-fit: cover;
 }
 
