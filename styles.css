@@ -154,14 +154,16 @@ hr {
 }
 
 
+
 .gallery a img {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 2fr));
   max-width: 200px;
   padding: 4px;
-  height: 30vh;
+  height: 28vh;
   object-fit: cover;
 }
+
 
 #gallery-container {
   width: 90%;
@@ -169,11 +171,9 @@ hr {
   margin-right: auto;
 }
 
-
 a img:not(#iconic):hover {
 filter: grayscale(100%);
 }
-
 
 
  .gallery{
@@ -181,12 +181,15 @@ filter: grayscale(100%);
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
+
 } 
 
-.container{
+.container {
   margin: 10px;
   width: 90vw;
 }
+
+
 
 #video{
   display: flex;
