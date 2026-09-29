@@ -111,11 +111,10 @@ button:hover{
 
 
 
-#paragraph{
-  width: 70vw;
-  margin: auto;
+#endNotice{
   text-align: center;
-  padding-top: 20px;
+  padding-top: 10vh;
+  margin: auto;
 }
 
 
