@@ -326,9 +326,10 @@ footer {
 }
 
 
- .gallery a img:not(#portrait){
+@media (max-width: 376px){
+   .gallery a img:not(#portrait){
     width: 45vw;
-    height: 100px;
+    height: 130px;
     object-fit: cover;
     margin: auto;
     display: block;
