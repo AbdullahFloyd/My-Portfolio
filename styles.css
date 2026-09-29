@@ -32,6 +32,12 @@ body{
   min-height: 100vh; 
 }
 
+.textParagraph{
+  text-align: center;
+  padding: 10vh;
+  font-family: roboto;
+}
+
   .sideways{
   color: black;
   transform: rotate(90deg);
