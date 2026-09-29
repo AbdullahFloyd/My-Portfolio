@@ -290,9 +290,8 @@ footer {
   width: auto;
   aspect-ratio: 16 / 9;
   margin-top: 40px;
-  border: solid black 2px;
-  padding: 3px;
-  max-width: 90vw;
+  padding: 2px;
+  max-width: 99vw;
 }
 }
 
