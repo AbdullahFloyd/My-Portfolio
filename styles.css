@@ -320,7 +320,7 @@ footer {
 
 
 @media (max-width: 376px){
-.textParagraph{
+#textParagraph{
  display: none; 
 }
 }
