@@ -160,7 +160,7 @@ hr {
 
 
 #gallery-container {
-    width: 99vw;
+  width: 99vw;
 }
 
 
@@ -168,12 +168,19 @@ a img:not(#iconic):hover {
 filter: grayscale(100%);
 }
 
+
+
 .gallery{
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
   align-items: center;
+}
+
+.container{
+  margin: 40px;
+  width: 80%;
 }
 
 #video{
@@ -185,10 +192,7 @@ filter: grayscale(100%);
   max-width: 80vw;
 }
 
-.container{
-  margin: 40px;
-  width: 95%;
-}
+
 
 
 #about-text{
