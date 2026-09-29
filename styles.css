@@ -160,7 +160,7 @@ hr {
   grid-template-columns: repeat(auto-fit, minmax(250px, 2fr));
   max-width: 200px;
   padding: 4px;
-  height: 28vh;
+  height: auto;
   object-fit: cover;
 }
 
