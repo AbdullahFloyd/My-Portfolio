@@ -158,9 +158,8 @@ hr {
   object-fit: cover;
 }
 
-
 #gallery-container {
-  width: 99vw;
+  width: auto;
 }
 
 
@@ -311,6 +310,5 @@ footer {
   width: 40vw;
   height: 130px;
   padding: 2px;
-  margin-left: auto;
 }
 }
