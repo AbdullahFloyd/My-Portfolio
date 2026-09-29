@@ -146,19 +146,12 @@ button:hover{
 }
 
 
-
 hr {
- width: 30vw;
-  margin-top: 20px;
-  border: solid black 3px;
+ width: 20vw;
+  margin-top: 30px;
+  border: dashed #1a1a1a 3px;
+  margin-bottom: 30px;
 }
-
-.small-hr {
-  width: 90px;
-  border: solid blue;
-  background-color: blue;
-}
-
 
 
 .gallery a img {
