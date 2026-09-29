@@ -317,3 +317,10 @@ footer {
   padding: 2px;
 }
 }
+
+
+@media (max-width: 376px){
+.textParagraph{
+ display: none; 
+}
+}
