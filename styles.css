@@ -156,16 +156,17 @@ hr {
 
 .gallery a img {
   display: grid;
-  grid-template-columns: repeat(auto-fit,    minmax(200px, 2fr));
-  gap: 5px;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 2fr));
   max-width: 200px;
-  padding: 2px;
-  height: 35vh;
+  padding: 4px;
+  height: 28vh;
   object-fit: cover;
 }
 
 #gallery-container {
-  width: auto;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
@@ -175,17 +176,16 @@ filter: grayscale(100%);
 
 
 
-.gallery{
+ .gallery{
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
-  align-items: center;
-}
+} 
 
 .container{
-  margin: 40px;
-  width: 80%;
+  margin: 10px;
+  width: 90vw;
 }
 
 #video{
@@ -270,12 +270,6 @@ footer {
 
 
 @media (max-width: 376px){
-  #iconic{
-   display: none;
-}
-}
-
-@media (max-width: 376px){
 footer {
   display: flex;
   justify-content: center;
@@ -287,6 +281,25 @@ footer {
   min-height: 40px;
   padding: 10px;
   margin-bottom: 0px;
+}
+}
+
+@media (max-width: 376px){
+  #iconic{
+   display: none;
+}
+}
+
+@media (max-width: 367px){
+  .container{
+    width: 100vw;
+    align-items: center;
+  }
+}
+
+@media (max-width: 376px){
+ #gallery-container {
+  width: 100%;
 }
 }
 
@@ -310,14 +323,24 @@ footer {
 }
 
 
-@media (max-width: 376px){
-  .gallery a img:not(#portrait){
-  width: 40vw;
-  height: 130px;
-  padding: 2px;
-}
+ .gallery a img:not(#portrait){
+    width: 45vw;
+    height: 100px;
+    object-fit: cover;
+    margin: auto;
+    display: block;
+  }
 }
 
+
+@media (max-width: 376px){
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    align-items: center;
+    width: 100%; 
+  }
 
 @media (max-width: 376px){
 #textParagraph{
