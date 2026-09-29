@@ -152,7 +152,7 @@ hr {
   grid-template-columns: repeat(auto-fit,    minmax(200px, 2fr));
   gap: 5px;
   max-width: 200px;
-  padding: 4px;
+  padding: 2px;
   height: 20vh;
   object-fit: cover;
 }
