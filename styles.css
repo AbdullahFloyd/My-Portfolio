@@ -351,3 +351,12 @@ footer {
  display: none; 
 }
 }
+
+
+  @media (max-width: 376px){
+  #textParagraphgraphic{
+     text-align: center;
+  padding: 10vh;
+  font-family: roboto;
+  }
+  }
