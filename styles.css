@@ -354,9 +354,13 @@ footer {
 
 
   @media (max-width: 376px){
-  #textParagraphgraphic{
-     text-align: center;
-  padding: 10vh;
-  font-family: roboto;
-  }
+#textParagraphgraphic{
+   text-align: center;
+  font-family: times new roman;
+    font-size: 0.90em;
+    width: 85vw;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
   }
