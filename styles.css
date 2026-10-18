@@ -147,9 +147,9 @@ button:hover{
 
 
 hr {
- width: 40vw;
+ width: 30vw;
   margin-top: 30px;
-  border: dashed #1a1a1a 3px;
+  border: solid #1a1a1a 3px;
   margin-bottom: 30px;
 }
 
@@ -185,6 +185,10 @@ filter: grayscale(100%);
 .container {
   margin: 10px;
   width: 90vw;
+}
+
+#textParagraphgraphic {
+  width: 60vw;
 }
 
 
