@@ -160,7 +160,7 @@ hr {
   max-width: 200px;
   padding: 4px;
   height: 25vh;
-  object-fit: fit;
+  object-fit: cover;
 }
 
 
