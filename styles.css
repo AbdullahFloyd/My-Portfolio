@@ -190,6 +190,7 @@ filter: grayscale(100%);
 
 #textParagraphgraphic {
   width: 60vw;
+  text-align: center;
 }
 
 
