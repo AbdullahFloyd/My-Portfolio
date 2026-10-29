@@ -157,9 +157,9 @@ hr {
   aspect-ratio: 4 / 2;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 2fr));
-  max-width: 200px;
+  max-width: 250px;
   padding: 4px;
-  height: 25vh;
+  height: 30vh;
   object-fit: cover;
 }
 
@@ -336,7 +336,6 @@ footer {
    .gallery a img:not(#portrait){
     width: 45vw;
     height: 16vh;
-    object-fit: cover;
     margin: auto;
     display: block;
   }
