@@ -48,19 +48,6 @@ body{
   min-height: 100vh; 
 }
 
-.textParagraph{
-  font-family: "Montserrat", sans-serif;
-  text-align: center;
-  font-size: 15px;
-  margin: auto;
-  max-width: 65vw;
-  text-align: center;
-  box-sizing: border-box;
-  line-height: 20px;
-}
-
-
-
 
 
 button:hover{
