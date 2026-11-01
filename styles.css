@@ -41,9 +41,14 @@ body{
 }
 
 .textParagraph{
+  font-family: Trebuchet MS;
   text-align: center;
-  padding: 10vh;
-  font-family: roboto;
+  font-size: 15px;
+  margin: auto;
+  max-width: 65vw;
+  text-align: center;
+  box-sizing: border-box;
+  line-height: 22px;
 }
 
   .sideways{
