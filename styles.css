@@ -340,11 +340,11 @@ footer {
     width: 100%; 
   }
 
-@media (max-width: 376px){
+/*@media (max-width: 376px){
 #textParagraph{
  display: none; 
 }
-}
+}*/
 
 
   @media (max-width: 376px){
