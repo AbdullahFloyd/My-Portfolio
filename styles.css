@@ -121,10 +121,10 @@ button:hover{
   text-align: center;
   font-size: 40px;
   font-family: "Montserrat", sans-serif;
-    font-weight: 400;
-    text-transform: uppercase;
-    letter-spacing: 0.16em;
-    color: #1c1a16ff; 
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: #1c1a16ff; 
 }
 
 
@@ -196,9 +196,8 @@ filter: grayscale(100%);
 #textParagraphgraphic {
   width: 60vw;
   text-align: center;
-  
+  font-family: "Montserrat", sans-serif;
 }
-
 
 
 #video{
@@ -209,8 +208,6 @@ filter: grayscale(100%);
   margin-top: 40px;
   max-width: 80vw;
 }
-
-
 
 
 #about-text{
@@ -366,7 +363,7 @@ footer {
   @media (max-width: 376px){
 #textParagraphgraphic{
    text-align: center;
-  font-family: times new roman, Serif, Georgia;
+  font-family: "Montserrat", sans-serif;
     font-size: 0.90em;
     width: 85vw;
   text-align: center;
