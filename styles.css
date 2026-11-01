@@ -27,6 +27,7 @@ body{
   font-style: normal;
   text-align: center;
   font-size: 15px;
+  line-height: 20px;
   margin: auto;
   max-width: 65vw;
 }
@@ -55,18 +56,9 @@ body{
   max-width: 65vw;
   text-align: center;
   box-sizing: border-box;
-  line-height: 22px;
+  line-height: 20px;
 }
 
-  .sideways{
-  color: black;
-  transform: rotate(90deg);
-  margin-left: -70px;
-  margin-top: 145px;
-  position: fixed;
-  z-index: -1;
-  font-size: 25px;
-}
 
 
 
