@@ -140,13 +140,14 @@ button:hover{
 }
 
 
-hr {
+
+ hr {
  width: 30vw;
-  margin-top: 40px;
-  border: solid #1a1a1a 3px;
-  margin-bottom: 40px;
-  display: none;
+   margin-top: 40px;
+   border: rgba(0,0,0,1) 3px;
+   padding-bottom: 1px;
 }
+
 
 .gallery a img {
   aspect-ratio: 4 / 2;
