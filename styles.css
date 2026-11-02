@@ -341,7 +341,7 @@ footer {
     grid-template-columns: repeat(2, 1fr);
     width: 100%; 
   }
-
+}
 
 
   @media (max-width: 376px){
@@ -395,7 +395,7 @@ footer {
   max-width: 90vw;
   max-height: 90vh;
   box-shadow: 0 5px 25px rgba(0,0,0,0.5);
-  background: white;
+  background: black;
   padding: 5px;
 }
 
